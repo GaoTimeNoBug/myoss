@@ -1,0 +1,230 @@
+HTTP/1.1 200 OK
+Server: nginx/1.25.4
+Date: Tue, 04 Jun 2024 07:01:54 GMT
+Content-Type: application/json;charset=UTF-8
+Connection: keep-alive
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Access-Control-Allow-Origin: https://sycsp.yuanquanyun.com.cn
+Access-Control-Allow-Credentials: true
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "aspSeriesInfoDetailVo": {
+      "seriesId": "7352827901790423090",
+      "seriesName": "看子敬父",
+      "channel": null,
+      "cover": "http://sycsp-img02.oss-cn-beijing.aliyuncs.com/7352827901790423090.png?Expires=1732419653&OSSAccessKeyId=LTAI5tAuskQjJNhjy3mTkCmg&Signature=7HQW5uXUbfs2e%2FFT%2B%2BWwJByu2Tk%3D",
+      "tags": [
+        "家庭情感"
+      ],
+      "affiliates": "影潭",
+      "manufacturer": null,
+      "description": "该剧围绕农村学生李鸣宇考上米国大学，十年后，学成归来，回家清明祭祖的故事脉络展开……",
+      "num": null,
+      "publishStartDay": "2024-04-02",
+      "publishEndDay": "2024-05-30",
+      "reelectedDays": 0,
+      "todayRank": 0,
+      "top20Num": 20,
+      "totalHeart": "7945.4w",
+      "collectId": null,
+      "appList": [
+        "香果追剧"
+      ]
+    },
+    "seriesInfoImageAnalysisVo": {
+      "sexFeatures": null,
+      "ageFeatures": null,
+      "provinceFeatures": [],
+      "sexDataList": [],
+      "totalSexNum": null,
+      "ageDataList": [],
+      "totalAgeNum": null,
+      "provinceDataList": [],
+      "totalProvinceNum": null,
+      "regionDataList": [],
+      "totalRegionNum": null
+    },
+    "seriesInfoDeliveryData": {
+      "publishDays": 59,
+      "appCount": 1,
+      "awemeCount": 6359,
+      "companyCount": 1,
+      "hourList": [],
+      "day7List": [
+        {
+          "date": "2024-05-28",
+          "count": 0
+        },
+        {
+          "date": "2024-05-29",
+          "count": 1
+        },
+        {
+          "date": "2024-05-30",
+          "count": 0
+        },
+        {
+          "date": "2024-05-31",
+          "count": 0
+        },
+        {
+          "date": "2024-06-01",
+          "count": 0
+        },
+        {
+          "date": "2024-06-02",
+          "count": 0
+        },
+        {
+          "date": "2024-06-03",
+          "count": 0
+        }
+      ],
+      "day30List": [
+        {
+          "date": "2024-05-05",
+          "count": 2
+        },
+        {
+          "date": "2024-05-06",
+          "count": 1
+        },
+        {
+          "date": "2024-05-07",
+          "count": 156
+        },
+        {
+          "date": "2024-05-08",
+          "count": 158
+        },
+        {
+          "date": "2024-05-09",
+          "count": 147
+        },
+        {
+          "date": "2024-05-10",
+          "count": 141
+        },
+        {
+          "date": "2024-05-11",
+          "count": 4
+        },
+        {
+          "date": "2024-05-12",
+          "count": 131
+        },
+        {
+          "date": "2024-05-13",
+          "count": 6
+        },
+        {
+          "date": "2024-05-14",
+          "count": 4
+        },
+        {
+          "date": "2024-05-15",
+          "count": 3
+        },
+        {
+          "date": "2024-05-16",
+          "count": 3
+        },
+        {
+          "date": "2024-05-17",
+          "count": 4
+        },
+        {
+          "date": "2024-05-18",
+          "count": 1
+        },
+        {
+          "date": "2024-05-19",
+          "count": 5
+        },
+        {
+          "date": "2024-05-20",
+          "count": 7
+        },
+        {
+          "date": "2024-05-21",
+          "count": 6
+        },
+        {
+          "date": "2024-05-22",
+          "count": 2
+        },
+        {
+          "date": "2024-05-23",
+          "count": 0
+        },
+        {
+          "date": "2024-05-24",
+          "count": 1
+        },
+        {
+          "date": "2024-05-25",
+          "count": 1
+        },
+        {
+          "date": "2024-05-26",
+          "count": 1
+        },
+        {
+          "date": "2024-05-27",
+          "count": 0
+        },
+        {
+          "date": "2024-05-28",
+          "count": 0
+        },
+        {
+          "date": "2024-05-29",
+          "count": 1
+        },
+        {
+          "date": "2024-05-30",
+          "count": 0
+        },
+        {
+          "date": "2024-05-31",
+          "count": 0
+        },
+        {
+          "date": "2024-06-01",
+          "count": 0
+        },
+        {
+          "date": "2024-06-02",
+          "count": 0
+        },
+        {
+          "date": "2024-06-03",
+          "count": 0
+        }
+      ],
+      "appInfoList": [
+        {
+          "key": "香果追剧",
+          "rate": 100.0,
+          "displayRate": "100.00%",
+          "imageUrl": "http://sycsp-dev.oss-cn-beijing.aliyuncs.com/%E9%A6%99%E6%9E%9C%E8%BF%BD%E5%89%A7-appIcon.png?Expires=1732099814&OSSAccessKeyId=LTAI5tAuskQjJNhjy3mTkCmg&Signature=acj%2BcePYYOe%2BWmrKVznBIKGo6bc%3D"
+        }
+      ],
+      "companyInfoList": [
+        {
+          "key": "广州六零一网络科技有限公司",
+          "rate": 100.0,
+          "displayRate": "100.00%",
+          "imageUrl": null
+        }
+      ]
+    }
+  }
+}
