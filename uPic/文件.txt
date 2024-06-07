@@ -1,0 +1,37 @@
+数据库地址密码：
+jdbc:mysql:
+//39.106.85.201:8091/syc-spbizuser
+ZYAF62618866A!
+
+宝塔面板
+外网面板地址: http://39.106.85.201:16449/36f44afc
+内网面板地址: http://192.168.10.6:16449/36f44afc
+ username: 6uog8uji
+ password: 9816f2ae
+ 39.106.85.201 root Jit62618866?123
+
+连接夜深模拟器
+adb connect 127.0.0.1:62001 
+
+aliyun
+gaoshuai@1206733878152461.onaliyun.com
+登录密码 
+v7ZFe&ribSYe76?8hwFXYD}wEKLf&btZ
+
+三眼查
+测试环境：http://new312-test-web.sanyancha.cn
+测试体验账号:
+个人版:13000000001
+高级版:13000000012
+企业版:13000000011
+验证码:8888 登录需要先点击下获取验证码
+
+
+win密码
+ty04
+
+
+三眼查短剧管理系统
+https://sycsp.yuanquanyun.com.cn/admin/login?redirect=%2Findex
+admin
+admin123
